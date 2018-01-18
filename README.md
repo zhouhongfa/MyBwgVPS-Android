@@ -1,2 +1,3 @@
 # MyBwgVPS-Android
-This  Android app is build to convince for me to  Control you  Bandwagon Host VPS
+This  Android app is build to convince for me to  Control my Bandwagon Host VPS
+
