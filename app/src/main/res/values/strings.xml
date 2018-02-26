@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">MyBwgVPS-Android</string>
-    <string name="vps_info_setup">配置</string>
+    <string name="app_settings">Settings</string>
     <string name="vps_info">vps信息</string>
     <string name="if_vps_info_setuped">是否已配置</string>
     <string name="title_activity_settings_test">Settings</string>
@@ -79,4 +79,9 @@
     <string name="title_activity_test">TestActivity</string>
     <string name="vpsSetupConfirm">确认</string>
     <string name="vpsSetupClear">置空</string>
+
+    <string name="vps_setup_vps_ip_address">ip address</string>
+    <string name="vps_setup_vps_veid">veid</string>
+    <string name="vps_setup_vps_api_key">api key</string>
+    <string name="title_activity_settings_demo1">Settings</string>
 </resources>

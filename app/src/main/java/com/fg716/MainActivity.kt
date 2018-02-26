@@ -17,8 +17,8 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun vpsInfoSetupL() {
-        startActivity(VpsSetupActivity.getStartActivityIntent(this))
-        finish()
+        startActivity(SettingsActivity.getStartActivityIntent(this))
+//        finish()
     }
 
     companion object {
