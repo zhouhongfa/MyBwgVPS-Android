@@ -84,4 +84,5 @@
     <string name="vps_setup_vps_veid">veid</string>
     <string name="vps_setup_vps_api_key">api key</string>
     <string name="title_activity_settings_demo1">Settings</string>
+    <string name="title_activity_vps_service_info">VpsServiceInfoActivity</string>
 </resources>

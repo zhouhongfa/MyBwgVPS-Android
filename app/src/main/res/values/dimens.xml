@@ -1,3 +1,5 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
+    <item name="maxRowWidth" type="dimen">100dp</item>
+    <dimen name="text_margin">16dp</dimen>
 </resources>

@@ -2,8 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.fg716">
 
+    <uses-permission android:name="android.permission.INTERNET" />
     <!-- <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> -->
-
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -19,6 +19,11 @@
             </intent-filter>
         </activity>
         <activity android:name=".SettingsActivity" />
+
+        <activity
+            android:name=".activity.VpsServiceInfoActivity"
+            android:label="@string/title_activity_vps_service_info"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
